@@ -1,7 +1,7 @@
 <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 <h1 align="center">Hi 👋, I'm Saumil Jain</h1>
 <h3 align="center">Senior Laravel Developer | Crafting Robust and Scalable Web Solutions | PHP | MySQL | JavaScript | Laravel Expert</h3>
-
+<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saumil-jain-dev&label=Profile%20views&color=0e75b6&style=flat" alt="saumil-jain-dev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saumil-jain-dev" alt="saumil-jain-dev" /></a> </p>
