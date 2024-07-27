@@ -3,7 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saumil-jain-dev&label=Profile%20views&color=0e75b6&style=flat" alt="saumil-jain-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saumil-jain-dev" alt="saumil-jain-dev" /></a> </p>
+
+
+- 🔭 I’m currently working in [Cmarix Technolab Pvt.Ltd.](https://www.cmarix.com/)
+
+- 🤝 I’m available for freelancing.
+
+- 📫 How to reach me **saumiljain375@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
