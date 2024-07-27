@@ -1,3 +1,4 @@
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 <h1 align="center">Hi 👋, I'm Saumil Jain</h1>
 <h3 align="center">Senior Laravel Developer | Crafting Robust and Scalable Web Solutions | PHP | MySQL | JavaScript | Laravel Expert</h3>
 
